@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">WasteMonitor</string>
+    <string name="title_activity_bin_map">BinMap</string>
+    <string name="login_email_hint">Email Address</string>
+    <string name="login_password_hint">Password</string>
+    <string name="title_activity_collector_trucks">CollectorTrucks</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
